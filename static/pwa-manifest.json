@@ -1,0 +1,17 @@
+{
+  "id": "../",
+  "name": "临研小站",
+  "short_name": "临研小站",
+  "description": "CRC 随访日历工具，数据全部存在本机，不联网也能用",
+  "start_url": "../index.html",
+  "scope": "../",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5F7FA",
+  "theme_color": "#FFFFFF",
+  "icons": [
+    { "src": "../static/icons/app-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "../static/icons/app-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "../static/icons/app-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
